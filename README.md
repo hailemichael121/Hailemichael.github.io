@@ -20,4 +20,5 @@
 * [GitHub Profile](https://github.com/hailemichael121)
 * [LinkedIn](https://www.linkedin.com/in/hailemichael121)
 
-**Contact:** **yihunaashe@gmail.com**
+**Contact:** **[Email Text](mailto:your_email@example.com)
+**
