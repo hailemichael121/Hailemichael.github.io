@@ -1,2 +1,3 @@
 Coding by day, hobby by night. Probably fueled by Coca Cola.
-![Banner Image](https://www.google.com/imgres?q=coding&imgurl=https%3A%2F%2Fwww.springboard.com%2Fblog%2Fwp-content%2Fuploads%2F2022%2F09%2Fprogrammng-language.jpg&imgrefurl=https%3A%2F%2Fwww.springboard.com%2Fblog%2Fsoftware-engineering%2Fcoding-skills%2F&docid=ZC2zEKLfzha69M&tbnid=EpaFXlm6sbJ-wM&vet=12ahUKEwj6-LfSxq6FAxVBBNsEHXeDAY0QM3oECBsQAA..i&w=1200&h=555&hcb=2&ved=2ahUKEwj6-LfSxq6FAxVBBNsEHXeDAY0QM3oECBsQAA)
+![Banner Image](![image](https://github.com/hailemichael121/Hailemichael.github.io/assets/121032039/edf1401d-2851-4edd-877b-eebc5bf045a9)
+)
